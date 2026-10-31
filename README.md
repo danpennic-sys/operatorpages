@@ -42,3 +42,10 @@ Source of truth for the public sales page lives in `index.html`.
 - Contact: danpennic@gmail.com
 
 Claims stay honest. No post-quantum claims in v1. No network trust. No wall-clock inside the verifier.
+
+### Engineering record
+
+[Smart-PNT Engineering Verification Matrix v3.1 candidate](smart-pnt/) (`SPNT-EVM-3.1-C`).
+
+Review candidate only. Not a frozen baseline. Not yet demonstrated. Every numerical limit is TBD. INT-01 through INT-04 are proposed and not approved. The record authorizes no implementation.
+
