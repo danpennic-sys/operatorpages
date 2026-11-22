@@ -23,8 +23,8 @@ or
 **$1,495 / year**  
 → [Buy Yearly](https://buy.stripe.com/cNibJ24H8gEJcRteoN0ZW02)
 
-Secure checkout · Instant access after payment  
-Private repo + signed binaries delivered automatically.
+Secure checkout. Access is manual.  
+A paid Stripe session does not grant the private repo by itself.
 
 ---
 
